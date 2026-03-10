@@ -1,4 +1,3 @@
-import { decimal } from 'drizzle-orm/gel-core'
 import { numeric, pgTable, serial, text, timestamp,integer } from 'drizzle-orm/pg-core'
 
 export const todos = pgTable('todos', {
