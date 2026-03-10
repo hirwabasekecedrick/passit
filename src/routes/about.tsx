@@ -12,11 +12,11 @@ function About() {
         <h1 className="display-title mb-3 text-4xl font-bold text-[var(--sea-ink)] sm:text-5xl">
           A small starter with room to grow.
         </h1>
-        <p className="m-0 max-w-3xl text-base leading-8 text-[var(--sea-ink-soft)]">
+        {/* <p className="m-0 max-w-3xl text-base leading-8 text-[var(--sea-ink-soft)]">
           TanStack Start gives you type-safe routing, server functions, and
           modern SSR defaults. Use this as a clean foundation, then layer in
           your own routes, styling, and add-ons.
-        </p>
+        </p> */}
       </section>
     </main>
   )
